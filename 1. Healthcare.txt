@@ -1,0 +1,59 @@
+1. Healthcare
+
+	Disease prediction and diagnosis (e.g., cancer detection from images)
+
+	Personalized treatment recommendations
+
+	Drug discovery and medical imaging analysis
+
+2. Finance
+
+	Fraud detection in transactions
+
+	Credit scoring and loan approval
+
+	Algorithmic trading and market forecasting
+
+3. Retail & E-commerce
+
+	Product recommendations (Amazon, Netflix)
+
+	Customer behavior analysis
+
+	Inventory and demand prediction
+
+4. Transportation
+
+	Autonomous vehicles and route optimization
+
+	Traffic prediction and smart navigation
+
+5. Manufacturing
+
+	Predictive maintenance of machines
+
+	Quality inspection using computer vision
+
+6. Agriculture
+
+	Crop health monitoring
+
+	Yield prediction and smart irrigation
+
+7. Cybersecurity
+
+	Threat detection and anomaly monitoring
+
+	Spam filtering and malware classification
+
+8. Education
+
+	Personalized learning platforms
+
+	Automated grading and performance prediction
+
+9. Natural Language Processing
+
+	Chatbots and virtual assistants
+
+	Automatic translation and sentiment analysi
